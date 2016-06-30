@@ -9,5 +9,9 @@ var a = {
   
   someStuff3: function() {
     
+  },
+  
+  newStuff1: function() {
+    
   }
 };
