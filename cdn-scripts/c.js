@@ -4,7 +4,7 @@ var c = {
   },
   
   someStuff2: function() {
-    
+    console.log("lol");
   },
   
   someStuff3: function() {
