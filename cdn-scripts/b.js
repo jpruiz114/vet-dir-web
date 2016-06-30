@@ -8,7 +8,7 @@ var b = {
   },
   
   someStuff3: function() {
-    
+    console.log("222");
   },
   
   newStuff1: function() {
