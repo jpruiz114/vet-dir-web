@@ -1,6 +1,6 @@
 var a = {
   someStuff1: function() {
-    
+    console.log("yay");
   },
   
   someStuff2: function() {
